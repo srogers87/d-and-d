@@ -1,0 +1,149 @@
+Sewers:
+
+Crumbling brick walls, effluent running down the centre. The smell is terrible, and as you walk you disturb clouds of flies which bombard your faces,
+causing you to squint as they bounce off you. There is no light at all down here. If the PCs light a torch, it flares oddly, and seems to burn more
+brightly than normal, and with a greenish tinge. The only sounds you can hear are an odd clanking, like metal on metal, or metal on stone, and the
+rippling of the water as it rolls through the sewers. The tunnels are only around 6 feet high at their maximum, so the taller characters have to stoop
+slightly. 
+
+Freestyle tunnels - remembering light. First encounter - knock knock mimic. 
+
+DM: You come to a sturdy-looking wooden door. It has a sign written in common which reads 'knock twice to pass'. There is a large stone door knocker 
+immediately above the sign. You also notice that the door is lacking a handle or doorknob, but does have a keyhole.
+
+Tell a good knock knock joke to get through, or otherwise amuse the mimic. 
+
+Behind the door, 10 feet away, is another door that opens with a shove. 
+
+Encounter 2: a long corridor. Ceiling is slightly higher than the rest, and it looks in poor disrepair as there are a number of stalagtites
+protruding downwards. The flow of water is stronger here. Movement is halved. This corridor is 2squares wide. There are 12 darkmantles 
+attached to the ceiling, which try to drop down on all the PCs simultaneously, with a surprise first round. Due to suprise, PCs have five rounds of
+oxygen before they start to suffocate. Suffocation - Con mod to find air or 0hp.
+
+Ticking noises!
+
+Darkmantle: Like a black octopus with webbing between its tentacles, eight blind yellow eyes dotting for want of a better word you'd call a head. A mouth
+is at the centre of the creatures underside, with rows of razor-sharp teeth it will try and clap onto its victims. 
+
+Encounter 3: behind a corroded copper bulkhead (which must be broken open) there are a number of grilles in the ceiling. The smell is almost
+intolerable here, a smell of rotten eggs and raw effluent. On the far side of the door are a few steps which lead down into about two feet of (mainly)
+liquid waste. Any torches flare and splutter, throwing off sparks in every direction, which flare themselves as they fall. 
+
+Any torch not extinguished in the first round explodes, igniting the entire passage. PCs have a DC16 Dex save to dodge (throw themselves flat into the 
+effluent) any damage. DC 13 they make the dodge but still take half damage. Lower than 13 they take the full force of the fireball. 2d6+4 damage. 
+
+Room is some sort of venting chamber for the sewer gas, but does not seem to be operational.
+
+Ticking noises!
+
+Encounter 4: a hole in the brickwork, exposing the raw earth behind. Several clumps of dank-looking mushrooms grow here, as well as some plants
+with glowing white leaves. As the PCs approach, the leaves take off! They are some sort of species of glowing moth, and they disappear into cracks
+in the brickwork before growing dim. Mushrooms might be useful as food, or maybe Styggian Lepidella. 
+
+Ticking noises!
+
+Encounter 5: another hole in the brickwork leads to what looks like a rogues den, long since vacated. There are rotten sacks of food here, crates
+and military-looking cots with moulded blankets. A weapon rack stands in one corner, and a long shaft in the ceiling looks like it might lead to the
+outside world. The room is about 10 feet high, and the shaft looks to be about 40 feet, with a fresh grille at the top. (check time of day). In addition,
+there are two skeletons slumped against the walls, each with a knife jammed into their ribs, their bony hands clutching at the point of entry. Daubed 
+on the wall in flaking white paint is the sign of the hydra you recognise from the fountain in Mojne. What looks like a leather journal has been left
+open on a cot. 
+
+Journal is covered in mould, and many of the pages are stuck together with damp. The book falls open halfway-ish through, and you can see that 
+the page has been scribbled with black ink, a message to someone called Tasik: go no lower. the cultists have brought it here. i know not from where. 
+they must seek to bring it to maturity before unleashing it upon the town. it appears immortal - the only thing i have seen harm it permanently is..."
+here the page is ripped away. 
+
+A search of the chamber reveals 10d10 gold pieces, as well as an ornate-looking polearm stashed in what was probably once a hidden chamber in the wall,
+but now that half the bricks have fallen out it's a lot less hidden. A halberd, it looks very well made, and a sheen of power dances along the
+(incredibly sharp) blade. If someone wields it, they immediately feel more competent. It is a +1 halberd. Who knows where these rogues got their hands
+on it. 
+
+First person to set foot in the chamber feels the flagstone beneath their feet sink, and hear an audible click. What do they do? If they stop off 
+flag before trap is disarmed, the centre of the floor disappears, hurling them into a 20 foot pit! 2d6 damage, and a carrior crawler emerges from a
+warren at the side of the pit! Bottom of the pit is bigger than the top, making climbing out impossible without assistance. 
+
+DC 15 dex to spot the mechanism and work out where the trigger is
+DC 18 dex/soh to disarm it
+
+Ticking noises!
+
+Encounter 6: the sewer opens out here, the water flowing downwards on a slope before disappearing into a black hole on the far wall, the sound of the
+water rising to a smashing creschendo. The roof also rises slightly, and once again is covered in stalagtites. The walls in this room appear to be
+covered with some sort of luminous algae, which gives off a dim light, just about enough to see by. All it really does though is illuminate the horror 
+of this chamber - you have stumbled upon some sort of nest, although for what you have no idea. You can see the remains of what look like humanoid
+figures suspended from the ceiling, wrapped in vines soaked with their putrefaction. Rotten straw is bundled up on the dry walkways in the corners
+of the chamber, mercifully empty, although on second thought not knowing where the owner of this den may be isn't much comfort after all. Half-submerged
+are rows of stones, the water parting around them as it plunges towards the hole at the end of the room. The footing in the room is unsteady, and you 
+suspect that the brickwork under the water has eroded away to almost nothing. 
+
+If PCs move at more than half speed in the water a DC14 acrobatics check or be thrown prone by the water, being dragged 10 feet.
+On their next turn, athletics check DC 13 to get up, or be sucked further towards the hole at the end of the room. 
+
+(Hole has a grille in it that will catch PCs if they fall into it). 
+
+If PCs approach the eggs, screams echo from the roof of the cavern and two hook horrors drop down to initiate combat. Five darkmantles also detach
+from the walls, looking to attach themselves to the PCs. 
+
+Hook horrors: 9 feet tall, approx 180kg, these creatures have the head of a vulture and a strong, beetle-like exoskeleton, leading to powerful, birdlike
+legs. The arms, rather than ending in hands, sharpen into brutal, barbed, chitinous hooks. The creature's cruel beak opens, screaming at you in rage. You realise,
+too late, that the rocks you can see in the stream are probably eggs, and you have just disturbed this thing's young.
+
+After round 1: Licky! The pup leaps out from some steps at the side of the room and launches himself at a floating darkmantle. He bears it to the ground, snapping
+and tearing at it. As the monstrosity struggles, Licky loses his balance, and is swept away towards the drop with a yelp. 
+
+REMEMBER HOOK HORRORS WILL DISENGAGE AND CLIMB WALLS TO ESCAPE PCS
+
+If swept away, PCs are caught by a grille, which nevertheless has a gaping hole in it. There doesn't appear to be any other way down but to try and ride the
+waterfall. The most you can see is that the water seems to cascade into a deep hole, but you suppose it must go somewhere... You can not hear anything other than the sound
+rushing water, but you detect this is where Licky has gone. Kratos also senses a deep evil. 
+
+
+Cultists!
+
+If PCs jump down the hole, they are caught by a twisting walkway that veers sharply to the left, shallowing out in some sort of filtration pool. The sound of the
+roaring water is diminished here, and you can hear in the background some sort of low chanting.
+
+PCs find themselves on a high walkway on the edge of a giant basin. At the centre, you see a huge beast rising up from the water, four thick necks atop a powerful
+scaled body. The creature has a matching number of heads similar to those of a dragon, with powerful jaws snapping at the scene in front of it. Arranged in a rough semi
+circle around the beast are six to eight figures dressed in black robes - robes you recognise as being the same as those worn by the acolyte of Takhisis at 
+Jacobssen Ridge. They genuflect in the water, praising the beast in front of them and chanting words you do not recognise. Around two of the necks of the creature
+are thick iron shackles, with chains attached, attached to heavy-duty pitons embedded in the wall behind it. The creature must be around 20 feet tall at its highest. The scene is
+lit by several large braziers, which throw off dim light wherever you look 
+
+As you watch, a series of black-robed cultists emerge from somewhere below you, somewhere you can't see, carrying a series of what must be offerings to the beast. The first,
+a bowl of fruit, is completely ignored as it is placed on the dais in front of the creature. The next, a leg of mutton, is picked up with surprising delicacy by one of the
+heads and tossed back. The third, a whole pig carried over the shoulder of a cultist, is snatched away almost before it is placed down, the cultist in question narrowly 
+avoiding going with it. The chanting continues, and a greater sacrifice is brought out - what looks like a young(ish) elf girl, unconscious, dressed in a flowing white
+robe. 
+
+PCs act? If not, the creature lumbers forward eagerly, but is stopped forcibly by the chains. It roars in displeasure, shaking the roof and causing brick dust to rain down. The
+water in front of the beast whips up into wavelets. With a snap of its neck it yanks one of the pitons from the wall, before turning its attention to the next. You see it brace
+all four legs against the ground and pull, the piton gradually moving each time. The cultists have scattered, dropping the elf girl into the water on the steps of the dais,
+and have presumably retreated back to their lair. 
+
+Hydra gets free, goes to eat girl, PCs?
+
+It looks as if this creature once had five heads, but one of them seems to have been removed, probably forcibly. The scales are blackened and charred, and the exposed
+flesh is horribly stretched and scarred. 
+
+Aenities: clacks tower, apothecary and armourer for basic supplies, as well as the blacksmith, who can sharpen weapons for the next fight.
+There is also a marketplace, where the PCs find a variety of tradable goods, IF they can keep them fresh and usable. Any material components for
+spellcasting can be found here. Also sewers...
+
+If they leave: 2 days travel.
+
+Encounters: day 1: 
+
+Horseman from Ulfsville in the direction of Kislev. If stopped, he is carrying a message (stamped with the BS logo) which he refuses to let them open. He is heading to speak to
+the mayor of Kislev, Gorelsk Reikspiel. 
+
+D6
+1 - gnoll party - watch PCs from treeline. Seem dishevelled, nervous. Not much leadership. If attacked it is likely they will run. 
+2 - six fishing boats pulled up on the shore. Noone seems to be around. There are several drying racks of fish stuck into the sand. 
+3 - a family travelling to Ulfsville. They seem to have quite a few possessions - maybe thinking of moving there?
+4 - owlbear lair?
+5 - a hunter with a giant longbow strapped to his back. He gives his (randomly generated) and tells the party he is looking to 
+hunt the most dangerous game in these lands. Over the next few days, the party find traps set for them, and a note at their camp telling
+them the hunt is on. 
+6 - a field of sheep, hiding from three black bears who have killed one of them. A shepherd thanks them if they get rid of the bears 

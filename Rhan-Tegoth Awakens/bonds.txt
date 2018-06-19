@@ -1,0 +1,31 @@
+Inventory - who has what
+Group cash - looting corpses/battlefields
+Levelling
+Bonds?h
+
+Thia - take a step to prove that you are worthy of a better life - what does that mean to you
+
+Flask - you notice Thia is quiet. Try and coax her out of her shell
+
+Curtis - reveal some details of the scandal that prevents you from going home again
+
+Tethir - the lizardman is fascinating to you. His scales shine with all the colours of the spectrum. Try and find out more about him. 
+
+Kratos - today your father's death is particularly fresh in your mind and you snap at your companions. Offend one of your allies with sarcasm or insults. 
+
+Angron - reveal details of the person you robbed/tell that story
+
+Inventory:
+
+Angron - axe of minor healing
+
+Thia - 2x healing potion
+
+Curtis - breeches of musical accompaniment
+
+Kratos - 2x healing potion, spoon of cooking
+
+Flask - ring of disappeaing, 1x healing potions
+
+Tethir - scroll of mass confusion, 25 drugs
+

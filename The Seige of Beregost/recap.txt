@@ -1,0 +1,149 @@
+The story so far: 
+
+EPISODE 1:
+Four adventurers met on their way to Beregost
+Enticed by riches offered by Baron Feltast to rid area of undead plague
+Arrived at Beregost, fought off undead attack
+
+Saw a man and a large, hulking humanoid creature silhouetted against the skyline
+They disappeared into some sort of portal
+Toraggon checked the area, found that their tracks disappeared into thin air
+Also smelled a faint sweet, sickly smell where the two had stood
+
+Aleksandr Trevia (guard captain) thought he recognised the man as Manfred von Carstein, 
+who used to be Baron Feltast's high wizard and right hand man - rumour is he went insane
+and hasn't been seen for several months
+
+Patricia set up a triage at East Watch for the beleagured guardsmen - made a friend of Trevia
+who suggested that Baron Feltast had a display cabinet of ancient weapons somewhere in his
+mansion
+
+Explored town, Toraggon learned from the barman (who's name you didn't even ask) that
+von Carstein went insane over a period of months, repeatedly referred to 'his experiment' 
+and became buried in his studies
+
+Jonathan Cena visited the library and checked the small council meeting minutes, corroborated
+that von Carstein even referred to his experiment in those meetings. Also confirmed Trevia and
+Feltast's poor relationship, the guard captain preferring a direct approach to protection
+
+TODO: speak to Nathan re: grappling
+      amend Nathan's alignment to Neutral Good
+      check with Jon that he is happy being Lawful Good
+      remind Jenkins to pick a feat
+      explain re: no interaction between characters when split
+	  
+	  
+EPISODE 2:
+
+Four adventurers met on the way to Beregost after a call sent out by Baron Feltast
+Fought their way through an undead attack and met the guard captain Aleksandr Trevia
+
+Once in town Toraggon entered an archery tournament, was accused of cheating and kicked a nobleman
+in the crotch before drawing his bow and scattering the crowd, losing 20gp in the process. He then 
+chased a child down an alleyway but was distracted by the meowing of a cat, and was drawn into an 
+ambush by three kenku bird-people, killing one of them but ultimately fleeing
+
+Jonathan Cena researched ancient texts in the library and was drawn into an introspective state
+where he was visited by a vision of Manfred von Carstein, who set him three riddles
+After passing the tests he felt guided to a hollowed out book which contained a dwarven key, and 
+a rough sketch of a humanoid construct that seemed to be part of von Carstein's experiments
+
+Patricia Maddick performed emergency surgery on a soldier who had been sent out on patrol by Baron
+Feltast directly, overriding the orders of Captain Trevia, who was livid upon learning this and stormed
+out. The solider said he had been sent east to Castle Drakenhof, which you later learned was the
+ancestral home of von Carstein but has long since fallen into ruin, but his patrol was attacked by 
+goblins and hobgoblins. He warned you that he had been caught in a magic trap
+
+Jan Vouge cased the manor house looking for weak points, but then linked up with Toraggon and they 
+entered the property to speak with Baron Feltast. Before long they were joined by the others. 
+
+Speaking with Feltast he confirmed that von Carstein's ancestral home was Castle Drakenhof, to the east,
+which Patricia remembered was the direction the majority of the undead attacks have been coming from. 
+Feltast invited you to see von Carstein's chambers, in which Toraggon found three books of interest. 
+
+At the end of the upstairs corridor was a large, copper door covered by a guard. 
+
+The main book detailed von Carstein's notes on how to create a large humanoid construct, a flesh golem.
+This golem is stitched together from parts of humans, trolls, ogres and other large creatures, and is 
+completely beholden to its creator - it must be in sight of the creator at all times or it ceases to 
+function. The other two books were animation and protection rituals for the golem itself, and recipes 
+for the embalming fluid for the various parts of the construct.
+
+
+Bracers of defence (+2 to AC when wearing light armour)
+Shield +1 (+2 for shield, +1 for enhancement)
+Ring of protection (+1 to AC)
+Amulet of magic missile (3 charges)
+
+Bracers/ring - Jan Vouge
+Shield - Jonathan Cena
+Amulet - Toraggon
+
+EPISODE 3:
+
+Met in a pub in Nashkel, travelled to Beregost in response to offer by Baron Feltast to rid town of undead plague
+Fought off undead attack upon arrival at Beregost, saw two figures silhouetted on the hill, small robed man and large, 15ft humanoid beast
+Captain Trevia of city watch recognised man as Manfred von Carstein, was mage to Baron Feltast but went insane, not been seen for some time
+
+Research revealed that von Carstein had become obsessed with finding something and his "experiments" - found detailed plans in his belongings
+for creating a flesh golem, a large reanimated construct of humanoid body parts. Notes state that creature must be in sight of its creator at all times 
+
+After leaving town rested overnight, set off next morning for Castle Drakenhof, met bears
+Had a lovely lunch with bears, made good friends
+Somehow managed to get lost despite having a map and travelling with a ranger (2x bad rolls)
+Headed down wrong path, failed to realise until nightfall (Drakenhof a day away)
+Came across farmstead occupied by goblins/hobgoblins
+Jan Vouge snuck down the hill to scout the area
+Saw human and large creature torturing a guardsman for information, asking him "where is it?", annoyed he couldn't/wouldn't answer
+Returned to group, bears refused to follow, group charged down hill and engaged the goblinoids
+Hobgoblins sent a runner back to their group, and returned with a hobgoblin war host, at least 50 strong
+After searching the farmhouse and finding a scroll of fireball hidden in a drawer forced to retreat but surrounded
+Bears came to the rescue and tore into the goblins/hobgoblins to buy you some time
+NAMES? all dead, Yogi, Booboo, Pudsy, He Who Shan't Be Named
+Eventually all killed as you escaped up the hill, goblins set fire to farmstead
+Story resumes with you all on a hill, looking down over the burning farmstead
+
+Georgia - drawn to Castle Drakenhof as a source of arcane power
+Can advise party that castle seems to be held together by magical energy - seems far too crumbling to be supporting itself
+Seems unlikely from her learnings that one mage alone would be capable of this
+Has discovered way into castle through delapidated crypt in graveyard at the back of castle, several undead roaming the area
+
+
+STUFF TO COVER:
+
+Check equipment and supplies - Sully lost his rope
+Spellcasting - can cast prepared spells multiple times in one day
+Nat 1s, 20s on skill checks are NOT criticals
+Inspriation now expires at the end of a session so use it or lose it
+
+EPISODE 4:
+
+Party made it to Castle Drakenhof, met a travelling mage called Elsebeth who is looking for the person/people who killed her
+mentor - drawn to Drakenhof as a source of acrane power. After an uneasy first meeting the party agreed to let her join and
+assist in their exploration of Drakenhof. 
+
+Thoroughly explored castle grounds, found that whilst the outer wall was crumbling the interior keep was held together by
+some sort of strong magic. Tried the main door, found it resolutely locked - no other entrances that you could find. 
+
+Explored graveyard, found three crypts - in the base of one someone had broken through into the Drakenhof dungeons.
+
+Decribe dungeons again - made of heavy stone flags, ceilings and walls partially covered with thick spider webs. Air is musty
+and whilst there are torches placed at regular intervals within the corridors and rooms, there is sufficient gloom for creatures
+to hide. The darkness feels oppressive, and you can't shake a feeling that something is watching you. 
+
+As you moved through the dungeon you enountered giant spiders, large shambling creatures with long arms, distended stomachs and
+their heads set directly into their shoulders and a huge spider that seemed to diappear/reappear at will. + cube
+
+
+STUFF TO COVER:
+
+Equipment - staff of the adder, masterwork knucks, potions of healing +3, arrows +1, bolts +1
+	Who has what?
+Spells - Patricia used 2? Toraggon used 2? Elsebeth used 2? 
+
+Fighting as a team - remind of Jonathan's grappling + Patricia's hold person
+Formations
+Scouting
+Planning
+
+Asking me what there is in an area vs "Do I see any..."

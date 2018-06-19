@@ -1,0 +1,132 @@
+To check:
+
+HP, spells, items
+Adjustment to death rules
+
+Farmhouse - north of Jacobssen Ridge - dusk
+
+Farmhouse with torches burning bright on the inside. In addition to charred and gnarled trees, the air as you descend into the basin the farmhouse rests in 
+becomes thick and difficult to breathe. The occasional pools of water at the side of the path are murky and occasional bubbles blop their way lazily to the
+surface. 
+
+House is larger than it seemed from the top of the hill. Visible from the outside it is clearly two floors plus what must be an attic of sorts. Large
+conservatory/greenhouse structure on one side with a high arched roof. The glass is dirty and smeared and it is impossible to see in - there are no torches
+inside the greenhouse.
+
+Interior - Nanny Ogg + three small girls - Hecate, Bellatrix and Marga.
+
+Nanny Ogg = Green Hag
+
+Is disguised when players arrive. She looks like a kindly old woman, white hair pulled back in a bun, short and plump, wearing an apron. Missing a few teeth. 
+She is friendly towards the players when they arrive, invites them in, fusses over them and says they must be tired from the walk. "So many nasty things
+about", she says. She doesn't reveal anything about the angkhegs. Offers party food in the form of a stew or pie. 
+
+Story: she has lived there all her life. Took in the three little girls after their parents were tragically killed in separate accidents working on the farm.
+"I used to have so many more farmhands when I was younger" she says wistfully. Particularly likes Angron, says he would have made a good farmhand.
+
+Be sure to ask party what they are doing so far north. Eventually she gets tired and goes to bed, encourages party to take their own rooms. 
+
+Girls (apart from Marga) are keen to play with party, if permitted. Shoulder rides from Angron, doing rubbings of Curtis' scales, asking Thia about her
+dress, stroking Flask's feathers, asking Kratos about his horns/if he is a real dragon, asking Tethir why he is blue.
+Over the course of the playfullness things increasingly escalate to the point where someone is hurt, which the girls find hilarious
+
+Hecate - black hair, pigtails, pyromaniac. Wears a pretty blue and white dress. Carries flasks of oil and a tinderbox to set fires wherever she goes
+Bellatrix - Dirty blonde hair, scruffy. unwashed face, constant smile. Enjoys hurting living things. 
+Carries a short dagger and attacks with a multiattack[2], doing 1d6-2 (min 1) damage per attack. Can also disengage as a bonus action. 
+Marga - long straight black hair, half covers her face. Green eyes. Wears black clothing.  the most psychically adept. Intense stare. 
+Can cast Vicious Mockery, Dissonant Whispers Tasha's Hideous Laughter and Crown of Madness without any components. She does not speak. 5x level 1 spell slots,
+then she attacks with nails for 1d4-1 (min 1) damage
+
+HP - 10
+AC - 18 (they're rapid and tiny)
+Speed - 40ft
+Size - small
+Str - 5 (-2)
+Dex - 16 (+3)
+Con - 6 (-2)
+Wis - 6 (-2)
+Int - 14 (+2)
+Cha - 18 (+4)
+
+Dagger - multiattack[2] - 1d6-2 damage, +5 to hit
+Firebomb - 1d8+2 damage, burst 1 from impact point, +5 to hit, dex saves, half damage on save. Target catches fire on a 6. 
+Girls can change rooms at will due to secret passages. All girls have Prestigidation so can manipulate fire at will.
+Claws - 1d4-1 damaage
+
+House is completely innocuous until the party is woken in the middle of the night. Can hear scraping and shuffling from attic once awoken. 
+
+House is clean, well kept generally (except for greenhouse). Lit torches appear frequently on the walls so no corner is unlit. Very little dirt or cobwebs -
+appears well cared for. 
+
+Ground floor: 
+
+Hallway - cracked parquet floor, large grandfather clock stands in the corner. Instead of the time it has hands which point to which room each resident of the
+house is in. If broken/destroyed the girls no longer know where party are and attack less frequently. Medium-sized light ring hangs from ceiling, which
+
+Kitchen - large kitchen, used to making food for far more than just Nanny Ogg and the girls. Even the six party do not tax it. Off kitchen is the larder and 
+coldroom, where meat is hanging to cure or keep fresh. (Note - the meat is of human origin)
+
+Dining room - would have been opulent once, but now sits largely unused under dust sheets. Portraits (of previous owners) line the walls. None of them look
+like Nanny Ogg... Portraits attack at night by swooping across the room and colliding with unsuspecting adventurers for 1d4-1 damage. Party must be looking
+at portraits to detect their movement. 
+
+Drawing room - a large fire burns in a grate, with portraits and a large mirror (cursed mirror) hanging on the wall. There are plenty of threadbare seats for
+people to sit on, and half a bottle of Duskwater brandy in a decanter on the side. Players looking into the cursed mirror see visions of hell itself and must
+pass a Wisdom DC15 save or be frightened for one minute, save ends. Except Tethir, who, if he looks into the mirror sees a swirling dark grey smoke. A vision 
+of a dark shadow looming over a board resolves from the murk, which seems to show the city of Altdorf. The shadow has a vaguely humanoid form, and appears to 
+be manipulating the inhabitants of Altdorf. The figure rolls dice, and moves pieces around the map. As quickly as the smoke formed this tableau, it shifts
+back to formlessness. 
+
+Games room - several tables are set out, marked for dragonchess, card games, dice etc. The walls are lined with books, and ornate suits of armour stand in the
+corners clutching greatswords. Maybe a deck of many things...? Suits of armour are NOT animated armour, but are rigged to fall on players who are too close
+(Dex DC10 save to dodge), 1d4 damage
+
+Larder/coldroom - door is latched, but easy to open. Meat hangs from the ceiling, jars of potted stuff sit on the shelves. It's a larder. 
+what do you want from me. 
+
+Conservatory - runs the length of the house, entrances at either end. Full of overgrown, exotic plants. 
+
+Blights, tendrils, poison spines, poison gas
+
+Tendrils - restrain a character if they do not notice them, then bind them completely
+Poison spines - no damage, but 2d4 poison damage on a failed DC13 CON check
+Blights - twig, needle etc
+
+First floor:
+
+Landing - threadbare blue carpet. Six doors off it. 
+
+Bedrooms x 5 w/ensuites - all have mirrors and washbasins, footlockers and large, if plain beds. Obviously left for farmhands. Hecate comes in and set fires
+in all of the rooms to ensure you're warm. She lights the fires expertly, quicker than any of the party can, using liquid from a flask she stashes in her dress
+2 to a room, plus one for Nanny and one for the kids.
+
+Nanny's room and kids room locked. 
+
+Master bathroom - is in fact trapped. If entered (after nightfall) the door slams shut, all of the torches blow out and the player is visited by horrible 
+visions of their own demise and that of their loved ones. DC 15 WIS save per turn or be paralysed. 
+
+Study - locked. Innocuous, but has a trap door in the roof leading to the attic. If players lower the trap door a magical alarm sounds.
+
+Attic - full of corpses. Several live humanoids, humans, elves, maybe a dwarf. All of them are chained to the walls, via pitons driven through their torsos. Some
+have thier eyes gouged out, some their tongues cut out. All are missing limbs or have their Achillies tendons cut so they cannot easily escape. They ask the
+players to help them, shuffling towards them as best they can and grasping at the players. 
+
+Basement - accessed via larder. 
+
+Wine cellar, 2x side rooms, both locked. 
+
+Large casks line the walls, with racks of bottles as well. The bottles hurl themselves at the players (1d4 damage, dex saves (DC13)). If ranged attacks miss here
+the casks are punctured and leak wine all over the floor, could cause drowsiness/intoxication
+
+One side room releases two shadows, who stalk the players through the house or ankheg lair below
+
+
+Angkheg warren - Angkhegs, fungi, carrion crawlers, darkmantle
+ 
+Pitch black in the lair, torches illuminate 30 feet brightly and 60ft dimly, pitch black after that
+
+Angkheg - 450xp
+Fungi - 10/50/100xp
+Darkmantle - 100xp
+Carrion crawler - 450xp
+ 
