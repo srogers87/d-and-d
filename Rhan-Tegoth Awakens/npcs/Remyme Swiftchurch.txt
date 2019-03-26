@@ -1,0 +1,9 @@
+
+NAME: Remyme Swiftchurch,
+LOCATION: None,
+GENDER: male,
+RACE: human,
+CLASS: rogue,
+FEATURE: unusual skin color,
+VOICE: deep,american
+PROFESSIONS: ['Torturer', 'Thatcher', 'Scabbard maker', 'Fishmonger', 'Pilgrim']

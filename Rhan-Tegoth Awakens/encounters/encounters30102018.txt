@@ -1,0 +1,143 @@
+
+
+
+Stuff to cover:
+
+Recap individual stories
+Recap world briefly
+Recap last session
+
+
+
+Kislev docks - ships and airships! 
+
+Kislev docks looks like it was built with zero forward planning. Piers protrude from the shore at a variety of angles, and as you look closer you can see that some of the docks are now unusable due to the collapse of some of the older structures, which for some reason have yet to be cleared away. The entire area is bustling, and the various buildings that line the shore are functional rather than ornate, made from a mixture of bricks and well-weathered planks. You count probably fifty boats tied up to the moorings here, with several more moving to and from their mooring points. Most of the boats are smaller vessels, fishing boats and some private barges, but there are also schooners, sloops and the occasional galleon at some of the larger docks. 
+
+Set back from the water is a large compound, fenced off from the rest of the docks. From inside, you see the shape of a balloon rising above the fence. There is a gate to control access to the compound, and you see two guards leaning against it. 
+
+Ship costs: if PCs ask at the harbourmasters office they find that there are a number of available charter vessels. These range from cutters (fast, light armour), sloops (small, cheap, fast), schooners (2-masted, medium/large, slower, likely to be armed) and galleons (3-masted, large, slow, expensive, but well armed)
+
+Stats:
+
+Rowboat: available to buy
+
+
+
+Sloop: 125gp/day
+Speed 14
+Armour 2
+Capacity 2
+Weaponry 0
+Crew: 3
+Damage threshold: 8
+HP: 100
+
+Cutter: 150gp/day
+Speed 11
+Armour 4
+Capacity 2
+Weaponry 0
+Crew: 3
+Damage threshold: 10
+HP: 130
+
+Schooner: 200gp/day
+Speed 8
+Armour 4
+Capacity 8
+Weaponry 4
+Crew: 8
+Damage threshold: 12
+HP: 200
+
+Galleon: 250gp/day
+Speed 5
+Armour 6
+Capacity 6
+Weaponry 8
+Crew: 20
+Damage threshold: 15
+HP: 300
+
+Altdorf is 40 away - so a galleon takes 8 days but a sloop only 3
+
+Weapons: traditional cannon (standard shot, grape shot, chain shot), trebuchet (mounted at fore of ship), harpoon (at fore of ship)
+Crew is 2gp/pppd - can of course sail without but anything you actually wish to do will be more difficult
+
+Airships:
+
+Breath of Sune
+Moloch’s Revenge
+Morodin’s Hammer
+
+Waldor’s compound:
+
+Surrounded by a large wooden palisade, walls at least 30 ft high. A large gate sits facing the road, with two sharp-eyed guards outside. Inside, two bulky airships take up the majority of the space, with what looks like a third slot standing empty. Halfway down the compound, on your left as you enter is a wooden stairway leading up to a walkway that runs around the inside of the compound and halfway across the centre, where a round panopticon provides shelter from the elements. Closer to you, also on the left, is a covered warehouse where two trolls are lounging, playing the classic troll game punch-out with grunts of laughter. 12ish workmen are busy maintaining the ships, restocking stores and tinkering with the rigging, and you can see maybe six more guards with crossbows on the firestep surrounding the walls. This is quite an operation! 
+
+As you approach the panopticon the sheer majesty of the airships strikes you. These are far more elegant than the Thrall of Takhisis, and you wonder if they are newer, more refined models. Splashes of individuality are evident across both, with a figurehead on one and dark, brooding colours adorning the other. 
+
+Waldor Enryn:
+A large and burly man, just like his brother, he looks like a hardbitten adventurer, wearing a shiny brown leather duster and a slightly-less-new tricorn hat. Around his waist is a sort of utility belt, and you see a brass telescope and a sexton hanging from a few clips. He also wears a shortsword slung low on his hip, and has a variety of scars on his face. He speaks with a deep, booming voice
+
+Why do airships need weapons? Weimar have passed an edict outlawing airship travel except on Empire or military business - he was recently visited by some Weimar officials who he had to bribe to go away, and to only take one of his ships, hence why his prices are higher than normal. The technology and cost of the airships is such that he has ordered his crewmen not to surrender to Weimar, but to try and escape instead where possible. He has only seen the large battle barges (think Thrall of Takhisis) and is confident that his ships are faster. 
+
+Also there is talk, only sailor babble mind you, of a mighty bird that lives in the mountains to the east and has made the skies over the water it’s hunting grounds.
+
+Only 2 kinds - a smaller, faster cutter and a larger schooner
+
+Cutter: 200gp/day
+Hardpoints: 3
+Speed: 12
+Armour: 3
+Damage threshold: 6
+HP: 100
+
+Schooner: 250gp/day
+Hardpoints: 5
+Speed: 8
+Armour: 5
+Damage threshold: 9
+HP: 135
+
+Because of the complexity of these vessels, the owner (Waldor Enryn) insists that you take a crew, which is included in the price. They will maintain and manoeuvre the ship, and there are 4 of them, a captain and 3 sky sailors. Maybe Walder himself offers to go. 
+
+
+Amenities
+
+Notes: Baggage Shipping - “We’re lightning fast’ - black livery with gold signage
+
+
+Kislev:
+
+A once-proud city, Kislev was half-destroyed in a great magical explosion around 30 years ago, the exact cause of which is unknown. Most people rich enough to do so fled the city at that time, although they have started to return in recent years. The city features a central walled motte where the majority of the nicer houses and families can be found, surrounded by more tightly-packed slums for the working classes. Given the proximity to the sea, the houses have a distinctly nautical theme, and some of them you suspect are just boats that have been hauled up from the beaches and secured in place. The central motte is surrounded by stone walls, but the gates have rusted open - Kislev has not been a warring city for some time. 
+
+Some sort of festival seems to be underway - there are carved gourds, squashes and other legumes standing on the front steps of the houses and the streets are a little quiet. You can smell smoke in the air. 
+
+Potential encounter - baby necromancer has raised some skeletons and uses the cover of the festival to unleash them
+Or spooky encounter with a banshee in a graveyard
+
+Woman runs up to party at night and says that a shadow stole her baby - other women come forward and say that others have been taken too. They say it must have been the Oni - they recite a kids rhyme (p239 MM). 
+
+### Kislev Souk
+
+A marketplace of great renown, spices and materials can be found in great abundance here. 
+
+### College of Abjuration
+
+The only university buildings remaining after the explosion, the College of Abjuration wisely surrounded their buildings with protective magics which turned away the worst of the blast. Steadfastly refusing to leave, the Dean of the University is very elderly, but still renowned for being an expert in his field. He has some incomplete archives. 
+
+Okrus Tallwood - steward at lawyers guild - letter from Mr Slant at the lawyers guild in Altdorf - laws are being ignored - great concern - asks Tallwood to join him in order to argue the rule of law
+
+Dalover Highwalker - apology from Waldor Enryn re: the airship safari Highwater had booked - the airship has been commandeered by the Weimar empire and he can no longer fulfil his contractual obligations
+
+Reyme Swiftchurch: a letter from Ira Campbell via an acquaintance/accomplice in Ulfsville - a scrawled letter, clearly done in a hurry. 
+
+[irish accent] - you’ll never guess who we ran into today - the ward of that bastard Vouge. The elves are coming south so he’ll be pushed towards you - be on the lookout, and let our boys in Kislev know. I’ll be in touch - Campbell
+
+Nolanol Stillriver: pit fighter, wanted to be bought by fancy Ulfsville man. Slept with Angron.
+
+Reyme Swiftchurch: a silver-haired elf, haughty and disdainful. He is missing two fingers on his left hand, and he has a sheathed rapier at his waist. As he sees PCs, he snaps his fingers, and two large half-orc guards in ill-fitting suit trousers and waistcoats stand up from chairs in the corners and eye you warily. 
+
+What business do you have here? I am a reputable businessman, my reputation is
+
+Hidden chamber below his house - clearly a meeting room and a tinkerer's workshop beneath - Ira has been here? 

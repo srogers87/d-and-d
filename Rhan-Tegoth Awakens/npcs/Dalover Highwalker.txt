@@ -1,0 +1,9 @@
+
+NAME: Dalover Highwalker,
+LOCATION: None,
+GENDER: male,
+RACE: human,
+CLASS: barbarian,
+FEATURE: facial scar,
+VOICE: gruff,english
+PROFESSIONS: ['Student', 'Hatmaker', 'Baker', 'Linguist']
