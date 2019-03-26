@@ -1,0 +1,9 @@
+
+NAME: Abyme Proudsworn,
+LOCATION: None,
+GENDER: female,
+RACE: dwarf,
+CLASS: barbarian,
+FEATURE: ragged clothes,
+VOICE: grating,wacky
+PROFESSIONS: ['Chef', 'Mortician', 'Tavernkeeper', "Ship's captain", 'Scavenger']

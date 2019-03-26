@@ -1,0 +1,9 @@
+
+NAME: Taron Lowjaw,
+LOCATION: Outside Ulfsville,
+GENDER: female,
+RACE: Elven,
+CLASS: warlock,
+FEATURE: ragged clothes,
+VOICE: booming,american
+PROFESSIONS: Hunter

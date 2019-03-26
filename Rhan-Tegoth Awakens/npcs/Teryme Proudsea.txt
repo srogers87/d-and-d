@@ -1,0 +1,9 @@
+
+NAME: Teryme Proudsea,
+LOCATION: opulent area, Ulfsville,
+GENDER: male,
+RACE: hunman,
+CLASS: barbarian,
+FEATURE: birthmark,
+VOICE: croaky,american
+PROFESSIONS: nobleman

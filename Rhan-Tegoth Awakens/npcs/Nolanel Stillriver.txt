@@ -1,0 +1,9 @@
+
+NAME: Nolanel Stillriver,
+LOCATION: None,
+GENDER: female,
+RACE: human,
+CLASS: barbarian,
+FEATURE: missing teeth,
+VOICE: dead,normal
+PROFESSIONS: ['Gladiator', 'Surveyor', 'Mason', 'Cook', 'Professor']

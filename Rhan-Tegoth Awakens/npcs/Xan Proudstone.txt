@@ -1,0 +1,9 @@
+
+NAME: Xan Proudstone,
+LOCATION: None,
+GENDER: female,
+RACE: elf,
+CLASS: paladin,
+FEATURE: missing fingers,
+VOICE: croaky,irish
+PROFESSIONS: ['Historian', 'Nun', 'Gardener', 'Barkeep', 'Knight']

@@ -1,0 +1,9 @@
+
+NAME: Eraw Duskwood,
+LOCATION: mojne surrounds,
+GENDER: male,
+RACE: elven,
+CLASS: rogue,
+FEATURE: distinctive jewelry,
+VOICE: croaky,english
+PROFESSIONS: ['Fishmonger', 'Historian', 'Stevedore', 'Miner', 'Lumberjack']
