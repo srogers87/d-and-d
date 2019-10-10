@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)http://www.disfordisaster.com/Drow%20Elite%20Warrior.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="./Dark Dragon Drow Warrior_files/css" rel="stylesheet" type="text/css"><link href="./Dark Dragon Drow Warrior_files/css(1)" rel="stylesheet" type="text/css"><title>D&amp;D 5e Statblock - Elite Drow Warrior</title><style>
+      body {
+        margin: 0;
+      }
+
+      stat-block {
+        /* A bit of margin for presentation purposes, to show off the drop
+        shadow. */
+        margin-left: 20px;
+        margin-top: 20px;
+      }
+    </style><style data-styled="" data-styled-version="4.1.3"></style></head><body><template id="tapered-rule"></template><script>
+(function(window, document) {
+  var elemName = 'tapered-rule';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="top-stats"></template><script>
+(function(window, document) {
+  var elemName = 'top-stats';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="creature-heading"></template><script>
+(function(window, document) {
+  var elemName = 'creature-heading';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="abilities-block"></template><script>
+(function(window, document) {
+  function abilityModifier(abilityScore) {
+    var score = parseInt(abilityScore, 10);
+    return Math.floor((score - 10) / 2);
+  }
+
+  function formattedModifier(abilityModifier) {
+    if (abilityModifier >= 0) {
+      return '+' + abilityModifier;
+    }
+    // This is an en dash, NOT a 'normal' dash. The minus sign needs to be more
+    // visible.
+    return '-' + Math.abs(abilityModifier);
+  }
+
+  function abilityText(abilityScore) {
+    return [String(abilityScore),
+            ' (',
+            formattedModifier(abilityModifier(abilityScore)),
+            ')'].join('');
+  }
+
+  var elemName = 'abilities-block';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        var root = this.createShadowRoot().appendChild(clone);
+      }
+    },
+    attachedCallback: {
+      value: function() {
+        var root = this.shadowRoot;
+        for (var i = 0; i < this.attributes.length; i++) {
+          var attribute = this.attributes[i];
+          var abilityShortName = attribute.name.split('-')[1];
+          root.getElementById(abilityShortName).textContent =
+             abilityText(attribute.value);
+        }
+
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="property-block"></template><script>
+(function(window, document) {
+  var elemName = 'property-block';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="property-line"></template><script>
+(function(window, document) {
+  var elemName = 'property-line';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script><template id="stat-block"></template><script>
+(function(window, document) {
+  var elemName = 'stat-block';
+  var thatDoc = document;
+  var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+  var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var template = thisDoc.getElementById(elemName);
+        var clone = thatDoc.importNode(template.content, true);
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  thatDoc.registerElement(elemName, {prototype: proto});
+})(window, document);
+</script>
+  
+<stat-block>
+  <creature-heading>
+    <h1>Dark Dragon Drow Warrior</h1>
+    <h2>Medium Humanoid, Neutral Evil</h2>
+  </creature-heading>
+
+  <top-stats>
+    <property-line>
+      <h4>Armor Class</h4>
+      <p>15 (Chain Shirt) </p>
+    </property-line>
+    <property-line>
+      <h4>Hit Points</h4>
+      <p>33</p>
+    </property-line>
+    <property-line>
+      <h4>Speed</h4>
+      <p>30 ft.</p>
+    </property-line>
+
+    <abilities-block data-str="12" data-dex="18" data-con="14" data-int="11" data-wis="13" data-cha="12"></abilities-block>
+
+        <property-line>
+                    <h4>Saving Throws</h4>
+                        <p>Dex +6 Con +5 Wis +4 </p>
+                  </property-line><property-line>
+      <h4>Skills</h4>
+      <p>Stealth +9 Perception +4 </p>
+    </property-line>
+
+        
+
+    
+        
+    
+                
+    
+        
+    <property-line>
+      <h4>Senses</h4>
+      <p>Darkvision 120ft, , passive Perception 14</p>
+    </property-line>
+    <property-line>
+      <h4>Languages</h4>
+      <p>Undercommon, Elvish</p>
+    </property-line>
+    <property-line>
+      <h4>Challenge</h4>
+      <p>3 (900 XP)</p>
+    </property-line>
+  </top-stats>
+        
+    <property-block>
+      <h4>Fey Ancestry.</h4>
+      <p>The Drow has advantage on saving throws against being charmed, and magic cannot put drow to sleep. </p>
+    </property-block>
+        
+    <property-block>
+      <h4>Sunlight Sensitivity.</h4>
+      <p>While in sunlight, the drow has disadvantage on attack, as well as wisdom (perception) checks relying on sight. </p>
+    </property-block>
+        
+    <property-block>
+      <h4>Innate Spellcasting.</h4>
+      <p>The Drow's innate spellcasting ability is intelligence (DC12). it can inately cast: <i> dancing lights (at will), darkness, faerie fire, levitate (1/day) </i></p>
+    </property-block>
+        
+    
+        
+    
+        
+    
+
+    
+
+    
+        
+    
+        
+    
+        
+    <h3>Actions</h3>
+        
+        <property-block>
+        <h4>Multiattack.</h4>
+        <p> The drow makes two shortsword or shortbow attacks. </p>
+  </property-block>
+
+        
+        <property-block>
+    <h4>Short Sword.</h4>
+        <p><i>Melee Attack Attack:</i> +6 to hit, reach 5ft, one target
+    <i>Hit:</i> 6 (1d6+3) Piercing Damage</p>
+  </property-block>
+
+        
+        <property-block>
+    <h4>Venemous dirk.</h4>
+        <p><i>Melee Attack:</i> +6 to hit, reach 5ft, one target
+    <i>Hit:</i> 5 (1d4+3) Piercing Damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. The target can re peat the saving throw at the end of each of its turns, ending the effect on itself on a success . If he/she fails by 5 or more, they are unconsious while poisoned and wakes up upon damage or shaken awake. </p>
+  </property-block>
+
+<property-block>
+    <h4>Shortbow.</h4>
+        <p><i>Ranged Attack:</i> +6 to hit, range 80/320ft, one target
+    <i>Hit:</i> 6 (1d6+3) Piercing Damage</p>
+  </property-block>
+
+        
+
+        
+
+        
+
+        
+  
+        
+
+        
+
+        <h3>Reactions</h3>
+    
+    <p><i><b>Trip.</b></i> If engaged in melee combat, the drow can trip it's opponent. This is an acrobatics (+6) check vs the target's STR or DEX (target decides). If successful, the target is knocked prone.</p>
+</stat-block>
+
+</body></html>
