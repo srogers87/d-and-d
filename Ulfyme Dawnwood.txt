@@ -1,9 +1,0 @@
-
-NAME: Ulfyme Dawnwood,
-LOCATION: Zwiesel,
-GENDER: female,
-RACE: human,
-CLASS: warlock,
-FEATURE: formal clothes,
-VOICE: dead,scottish
-PROFESSIONS: sailor

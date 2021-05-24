@@ -1,0 +1,9 @@
+
+NAME: Pul'em Clearbane,
+LOCATION: Middenheim,
+GENDER: male,
+RACE: Gnome,
+CLASS: rogue,
+FEATURE: bald head,
+VOICE: booming,normal
+PROFESSIONS: Salt farmer

@@ -1,0 +1,9 @@
+
+NAME: Okrelon Darkwater,
+LOCATION: Middenheim,
+GENDER: female,
+RACE: Human,
+CLASS: monk,
+FEATURE: unusual skin color,
+VOICE: fruity,american
+PROFESSIONS: Noble
